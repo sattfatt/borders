@@ -4,6 +4,7 @@ options=(
     style=round
     width=1.5
     hidpi=on
+    blacklist="launcher"
     order=above
     active_color=0xffff9e64
     inactive_color=0xff737aa2
